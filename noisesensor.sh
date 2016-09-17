@@ -2,7 +2,7 @@
 #
 # Noise activated recorder script
 
-THRESHOLD=0.010000
+THRESHOLD=0.040000
 NOTI_SERVICE=/home/pi/download/weaved_software/scripts/send_notification.sh
 MAKER_SERVICE=/home/pi/python_example/maker_request.py
 NOISE_LOG_HOME=/home/pi/audiotest
